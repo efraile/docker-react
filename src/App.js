@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Soy el mago Tobías y respondo a tus preguntas
           </p>
           <a
             className="App-link"
@@ -17,7 +17,9 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            <p>¿Que quieres saber?</p>
+            A Si, soy yo
+            
           </a>
         </header>
       </div>
